@@ -1,0 +1,314 @@
+--- Page 1 ---
+Braemar Technical Services Ltd
+5th Floor
+Bury Court
+6 Bevis Marks
+London, EC3A 7BA
+T: +44(0) 203 142 4350
+E: enquiries@braemar.com
+www.braemartechnical.com
+Registered in England & Wales no. 02646070
+Registered Company Address:
+1 Strand, Trafalgar Square, London WC2N 5HR
+United Kingdom
+Instruction Date : 17 October 2017
+Our Ref Number : GSS 325376
+: SS
+Report Date : 1 August 2018
+SURVEY REPORT
+THIS IS TO CERTIFY
+that at the request of Underwriters concerned, survey has been held on the steel built, twin
+screw, motor driven, offshore support vessel: -
+“BOURBON EVOLUTION 802”
+GT 6146 of Luxemburg
+while at Carena Ship Repair, Abidjan, for the purpose of ascertaining the cause, nature and
+extent of damage alleged to have been sustained in the following circumstances:
+10 JANUARY 2017: CRANKSHAFT DIESEL GENERATOR # 3 BREAKDOWN
+It was reported during normal operation, two engines DG3 and 5 were working in parallel on
+load due to cranes operation. DG3 lubricating oil filters differential pressure high alarm
+occurred, and the engine was stopped by emergency stop.
+Oil filters were inspected and metal particles were found inside the filters.
+Crankshafts were inspected and found in good condition. Crankcase was inspected. All
+connecting rods were inspected. Unit 4RB connecting rod close to connecting rod cap was
+found discoloured. Unit 4RB and 4LB connecting rod caps were removed. Connecting rod
+bearings were found damaged and crankpin No.4 found seized
+All our assignments are subject to our Terms and Conditions that are available on request or here;
+http://braemartechnical.com/files/23-Standard-Terms-Conditions-2014.pdf
+Page 1 of 12 QA 02 REV 2018/01
+L o n d o n R e f
+--- Page 2 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+For further particulars please refer to log books and/or statements, the foregoing being from
+verbal statements made to us by a representative of the Owners and review of documentation
+presented by them. The logbooks were sighted on this occasion.
+19 JANUARY 2018
+On the above occasion and subsequent occasions, the undersigned surveyor attended
+onboard and in the company of the following found, noted and was advised as follows:
+ATTENDING THE SURVEY
+Name & Position Representing
+Capt. Bonaci Tonci Owners
+Capt of Bourbon Evolution 802
+Mr. Drelich Andrzej Owners
+Chief Engineer of Bourbon Evolution 802
+Name & Position Representing
+VESSEL’S DESCRIPTION
+The vessel is an offshore supply vessel. It was built during 2012 in Zhejiang Shipbuilding Co.
+Ltd, China and has a loaded service speed of 12 knots.
+Principal Particulars
+Owners - Bourbon Evolution 802 SNC
+Manager - Bourbon Offshore Surf
+IMO Number - 9629835
+Class - Bureau Veritas
+Flag State /Registry - Luxemburg
+Principal Dimensions
+Length (OA) - 100.20 m
+Length (BP) - 95.60 m
+Moulded Breadth - 21 m
+Moulded Depth - 8 m
+Max Draft - 6.35 m
+Gross Tonnage - 6146
+Net Tonnage - 1843
+Deadweight - 4849 tonnes
+Page 2 of 12
+--- Page 3 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+Propulsion Prime Mover
+Make - Cummings
+No. - 3
+Type - Diesel
+Model - MCR 5052
+Cylinders - V16
+MCR - 5052 kW @ 1800 RPM
+Engine Builder - Cummings
+Fuel Type - MGO
+Propulsion Unit
+Propeller - 3 Solid Azimuth Thrusters
+Drive - Via reduction gearbox
+Class & Statutory Certification
+- The vessel remains classed with Bureau Veritas.
+- Document of Compliance issued by Bureau Veritas on 22 March 2017 valid until 23 March
+2022
+- Safety Management Certificate issued by Bureau Veritas on 12 December 2018 valid
+until 12 May 2018
+- The casualty was reported within the company Safety Management System.
+- All statutory certificates were noted to be valid
+- There were no existing conditions of Class at the time of the incident.
+DAMAGE FOUND
+On thorough inspection, the following was found
+AUX ENGINE # 3
+Maker Cummings
+Model KTA 50D (MC)
+Type 4 stroke, V16
+Power Rating 1,235 kW
+Serial No. 33177714
+Date of Manufacture 2/2009
+Run Hrs Since New/overhaul 28645 / 11817
+During our attendance on 19 January 2018, the following was noted:
+The crankcase doors for no.4 units (Right & left banks) were opened for inspection and
+bearing caps and shells removed.
+Page 3 of 12
+--- Page 4 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+The bearing caps and bearing shells on both bank were darkened by heat damage. The
+bearing shells were deformed and surfaces wiped.
+The connecting rods were also noted to have heat damage.
+The crankpins were found to be severely darkened from overheating and severely
+scratched.
+Oil sample taken from the crankcase showed a large presence of metallic particles.
+We reattended the vessel on 24 February 2018 and the following was noted:
+The owners subsequently ordered and installed a new diesel generator engine to replace
+the damaged DG#3. At the time of our second attendance, the installation was completed,
+and the engine was being commissioned.
+The damaged old engine had been taken out of the vessel to the Carena Ship Repair
+yard engine workshop where it was sighted.
+The engine was partially dismantled to enable inspection of the damage in the crankcase
+to be undertaken.
+The nos 4 & 5 bearings shells were noted to be severely scored and scratched with the
+copper underlay exposed in the case of no. 5 unit.
+Inspection of the corresponding position on the crankshaft found the crankpin severely
+grooved and scored over approximately 80% of the surface area at unit 4.
+The crankshaft was damaged beyond economic repair and would have to be replaced.
+ALLEGATION
+No formal written allegation of cause has been made in respect of this damage. It is
+understood that if a claim is to be made, the Owners will notify their Brokers of the allegation
+of cause. In view of the foregoing, the damage now found and reported upon are noted Without
+Prejudice to Underwriters’ liability and the Owners Representative has been so advised.
+Remarks
+Even though there is no formal allegation, the following has been noted:
+1) The Owners reported in their email dated 7 March 2018 from Douchras Jean-Patrick that:
+Quote Makers has reported that engine block may have a defect (from factory or yard)
+which generated this breakdown. Makers advised to not repair it because the same issues
+may happen again end of Quote.
+2) It is noted, as also indicated in the same email and our Advice No.1, that this is the second
+time the failure has occurred around the same 10,000 running hours (maximum
+recommended hours being 24,000 hrs before overhaul) within 2 years.
+3) In view of the above, we have requested that the manufacturers provide further
+information to confirm their position. If confirmed, we could possibly then conclude on
+what is the most likely cause of the damage.
+Page 4 of 12
+--- Page 5 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+PERMANENT REPAIRS CARRIED OUT
+The damaged DG#3 was replaced with a reconditioned one which was satisfactorily
+commissioned and reported to be operating satisfactorily.
+STATUS OF REPAIRS
+Repairs are completed.
+GENERAL SERVICES & ACCESS
+1. Vessel docked stern to, for these repairs with tug assistance, pilot’s advice, line and
+gangway services.
+2. Provided the following:
+- Opening up of manholes in way of damage and closing with new gaskets on completion
+of repairs
+- Cranage
+- Disposal of dirt and debris of repairs
+- Garbage services
+- Security
+3. All new and disturbed material coated as original.
+4. All new and disturbed material tested and proved satisfactory to satisfaction of all parties
+including Class.
+5. All new and disturbed material tested and proved satisfactory to satisfaction of all parties
+including Class.
+ESTIMATED COST
+Since no further work was undertaken on the damaged DG#3 our estimated cost of repairs
+(taking into consideration the work done in removal and partial disassembly of the damaged
+engine) was amended from our Advice no.2 to USD220,000, subject to variation when final
+invoices are received.
+ACCOUNTS
+The accounts are approved by us, without prejudice, subject to Underwriters liability and
+adjustment in the usual manner being considered fair and reasonable as indicated below. A
+query was raised on one account item which was presented without an invoice. When a
+response is received on the said query it will be reviewed in an addendum to this report.
+Page 5 of 12
+--- Page 6 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+BDO
+Invoice no. 2018200018 22 March 2018 USD 137,871.34
+The above is for new engine by BST 33173664 for the Bourbon Evolution 802.
+Sum approved as fair, reasonable and casualty related USD 137,871.34
+BOS
+Invoice no. none 18 February 2018 USD 5,500.00
+The above account is for supervision by Stephaine LEROUX (technician) during repairs of the
+casualty
+Sum approved as fair, reasonable and casualty related USD 5,500.00
+CARENA
+Invoice no. C092/18 26 March 2018 EUR 52,692.00
+The above works carried out between 02/01 and 31/01/2018 @ Carena Shipyard, Abidjan ,
+Cote D’Ivoireourbon Evolution 802.
+Sum approved as fair, reasonable and casualty related EUR 52,692.00
+CARENA
+Invoice no. C092/18 26 March 2018 EUR 52,692.00
+The above for works carried out between 02/01 and 31/01/2018 @ Carena Shipyard, Abidjan,
+Cote D’Ivoire.
+Sum approved as fair, reasonable and casualty related EUR 52,692.00
+MECATLANTIC
+Invoice no. 1970045 14 March 2018 EUR 1,500.00
+The above for issue of EIAPP for a new engine.
+Sum approved as fair, reasonable and casualty related EUR 1,500.00
+MECATLANTIC
+Invoice no. 1970044 14 March 2018 EUR 17,816.09
+The above for supervision of works by technician Ivo Gugge in Cote D’Ivoire for replacement
+of engine on the Bourbon Evolution 802 from 12/02 to 17/02/2018.
+Sum approved as fair, reasonable and casualty related EUR 17,816.00
+Page 6 of 12
+--- Page 7 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+REPAIR TIMES
+The vessel was at the repairers solely on account of the damage noted herein, no Owner’s
+work being carried out concurrent with damage repairs, which took the full period afloat to
+effect.
+SURVEYORS NOTES
+We were assisted by the technician from Mecatlantic Mr Philippe Raymond.
+Records indicate that the DG3 had a similar breakdown in February 2015 with the same
+no. 4 unit being damaged at the time.
+Due to the restrictions in the engine room, it was agreed that in order for a full assessment
+of the damage to be done, including examination of the main bearings, especially in way
+of no. 4 crankshaft unit, it would be better for the DG3 to be taken out of the vessel to
+shore workshop for disassembly.
+Alignment of crankshaft and main bearings to also check and an examination of material
+to be undertaken.
+A review of the engine room maintenance records indicated that the maintenance
+schedules were being adhered to. The DG 3 running hours since last overhaul was less
+than half the recommended 24,000 hrs. The last lubricating oil change was 367 hrs since
+last overhaul and crankshaft examined on 4.5.17.
+The technician from Mecatlantic has indicated that it would be faster to provide a
+replacement engine while the damaged one is carefully examined and repaired if
+considered a viable option.
+The manufacturers subsequently indicated (as per email of 7.3.2018 from owners) that
+the engine had a manufacturing defect and advised that if it is repaired the defect could
+occur again, the owners as a result, opted not to repair the damaged engine.
+The manufacturers subsequently indicated that the engine had a manufacturing defect,
+the owners as a result opted not to repair the damaged engine.
+PRINCIPAL DATES
+Date Comment
+10.1.2018 Date of incident.
+16.1.2018 Examination of damage started by Mecatlantic
+19.1.2018 Assessment completed.
+12.2.2018 Old engine removed from vessel
+14.2.2018 New engine arrived in Shipyard.
+15.2.2018 Installation started
+22.2.2018 Installation completed.
+24.2.2018 Engine commissioned.
+Page 7 of 12
+--- Page 8 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+DOCUMENTS RETAINED ON FILE
+Copies of the following documents are retained by us on file:
+Vessel general particulars
+Crew list
+Safety Management Certificate
+Document of compliance
+Incident report.
+Certificate of registry.
+DOCUMENTS REQUESTED
+Copies of the following documents have been requested from the Owners:
+We have requested that engine makers provide confirmation that the block has a
+manufacturing defect from the factory or yard as indicated in their report.
+--------------------------------------
+ATTENDING SURVEYOR:
+Nasir Mohamed
+Braemar Technical Services Ltd
+APPENDED
+• Selected Photographs
+CONFIDENTIALITY: This report is confidential. It is written for the benefit of the addressee but solely for the purpose of assisting
+in the resolution of the issues with which it deals. It is to be used for that limited and confidential purpose only. In the event of
+unauthorised release, it and all records or copies of it are to be returned immediately. No reproduction nor repetition nor disclosure
+of any conclusion in it, nor of any information drawn from it, in whatever form, for any other purpose than that, is permitted without
+the specific written permission of Braemar Technical Services Ltd.
+Page 8 of 12
+--- Page 9 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+SELECTED PHOTOGRAPHS
+No.4 unit RB & LB bearing shells and caps darkened by heat damage.
+Bearing shells scratched and wied.
+Metallic particles on top of lubricating oil filter.
+Page 9 of 12
+--- Page 10 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+Crankpin journal severely scratched and patches darkening due to
+overheating.
+Metallic particles in sample lubricating oil taken from crankcase of DG
+no.3 engine.
+Page 10 of 12
+--- Page 11 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+New engine -replaced DG#3-installed on vessel.
+New engine in place.
+Page 11 of 12
+--- Page 12 ---
+“BOURBON EVOLUTION 802” - SURVEY REPORT
+GSS 325376
+Old DG/E as seen in Carena workshop, partially disassembled for
+inspection.
+Crankpin in way of no.4 unit severely scored and with deep grooves-
+close up photo taken in Carena workshop.
+Page 12 of 12

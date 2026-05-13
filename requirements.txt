@@ -1,0 +1,27 @@
+# Core LLM & Embeddings
+openai
+
+# GraphRag Requirements
+graphrag
+PyYAML
+pdfplumber
+
+# TraditionalRAG Requirements
+langchain
+langchain-text-splitters
+langchain-community
+chromadb
+pypdf
+
+# VectorlessRAG Requirements
+python-dotenv
+pageindex
+
+# Utilities
+python-dateutil
+requests
+
+# Development & Logging
+pydantic
+
+dotenv
