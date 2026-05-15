@@ -24,4 +24,5 @@ requests
 # Development & Logging
 pydantic
 
-dotenv
+tiktoken
+rich
