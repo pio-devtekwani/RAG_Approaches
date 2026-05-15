@@ -1,0 +1,493 @@
+[
+  {
+    "id": 1,
+    "name": "Dell XPS 15 Gaming Laptop",
+    "category": "Laptops",
+    "price": 1899.99,
+    "brand": "Dell",
+    "rating": 4.7,
+    "description": "High-performance gaming laptop with NVIDIA RTX 4060 graphics card, perfect for gaming and content creation. Features a stunning 15.6-inch OLED display with 3.5K resolution.",
+    "features": [
+      "Intel Core i7-13700H processor",
+      "16GB DDR5 RAM",
+      "512GB NVMe SSD",
+      "NVIDIA GeForce RTX 4060 8GB",
+      "15.6-inch 3.5K OLED display",
+      "Windows 11 Pro"
+    ],
+    "specifications": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "16GB DDR5",
+      "storage": "512GB SSD",
+      "graphics": "RTX 4060",
+      "screen": "15.6-inch OLED"
+    },
+    "tags": ["gaming", "high-performance", "OLED", "portable", "content-creation"]
+  },
+  {
+    "id": 2,
+    "name": "Apple MacBook Pro 14-inch M3",
+    "category": "Laptops",
+    "price": 1999.99,
+    "brand": "Apple",
+    "rating": 4.9,
+    "description": "Revolutionary MacBook Pro with the new M3 chip, offering exceptional performance and battery life. Ideal for professionals and creators.",
+    "features": [
+      "Apple M3 chip with 8-core CPU",
+      "18GB unified memory",
+      "512GB SSD storage",
+      "14-inch Liquid Retina XDR display",
+      "Up to 22 hours battery life",
+      "macOS Sonoma"
+    ],
+    "specifications": {
+      "processor": "Apple M3",
+      "ram": "18GB unified",
+      "storage": "512GB SSD",
+      "screen": "14-inch Retina XDR",
+      "battery": "22 hours"
+    },
+    "tags": ["professional", "long-battery", "premium", "creative", "macos"]
+  },
+  {
+    "id": 3,
+    "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "category": "Laptops",
+    "price": 1649.99,
+    "brand": "Lenovo",
+    "rating": 4.6,
+    "description": "Ultra-lightweight business laptop with military-grade durability. Perfect for professionals who need portability and reliability.",
+    "features": [
+      "Intel Core i7-1365U processor",
+      "16GB LPDDR5 RAM",
+      "512GB SSD",
+      "14-inch 2.8K OLED display",
+      "Weight: 2.48 lbs",
+      "Military-grade MIL-STD-810H certified"
+    ],
+    "specifications": {
+      "processor": "Intel Core i7-1365U",
+      "ram": "16GB LPDDR5",
+      "storage": "512GB SSD",
+      "weight": "2.48 lbs",
+      "screen": "14-inch OLED"
+    },
+    "tags": ["business", "lightweight", "durable", "professional", "portable"]
+  },
+  {
+    "id": 4,
+    "name": "ASUS ROG Zephyrus G14",
+    "category": "Laptops",
+    "price": 1499.99,
+    "brand": "ASUS",
+    "rating": 4.8,
+    "description": "Compact gaming powerhouse with AMD Ryzen 9 and RTX 4060. Incredible performance in a portable 14-inch form factor.",
+    "features": [
+      "AMD Ryzen 9 7940HS processor",
+      "16GB DDR5 RAM",
+      "1TB PCIe 4.0 SSD",
+      "NVIDIA GeForce RTX 4060",
+      "14-inch QHD+ 165Hz display",
+      "10+ hours battery life"
+    ],
+    "specifications": {
+      "processor": "AMD Ryzen 9 7940HS",
+      "ram": "16GB DDR5",
+      "storage": "1TB SSD",
+      "graphics": "RTX 4060",
+      "screen": "14-inch QHD+ 165Hz"
+    },
+    "tags": ["gaming", "compact", "high-refresh-rate", "AMD", "portable"]
+  },
+  {
+    "id": 5,
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "category": "Audio",
+    "price": 399.99,
+    "brand": "Sony",
+    "rating": 4.8,
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality. Perfect for travel, work, and music enthusiasts.",
+    "features": [
+      "Industry-leading noise cancellation",
+      "30-hour battery life",
+      "Multipoint connection",
+      "Premium sound quality with LDAC",
+      "Speak-to-Chat technology",
+      "Comfortable lightweight design"
+    ],
+    "specifications": {
+      "battery": "30 hours",
+      "weight": "250g",
+      "connectivity": "Bluetooth 5.2",
+      "driver": "30mm"
+    },
+    "tags": ["noise-canceling", "wireless", "premium-audio", "long-battery", "travel"]
+  },
+  {
+    "id": 6,
+    "name": "Bose QuietComfort Ultra Headphones",
+    "category": "Audio",
+    "price": 429.99,
+    "brand": "Bose",
+    "rating": 4.7,
+    "description": "Premium wireless headphones with spatial audio and world-class noise cancellation. Unmatched comfort for all-day wear.",
+    "features": [
+      "World-class noise cancellation",
+      "Immersive spatial audio",
+      "24-hour battery life",
+      "CustomTune technology",
+      "Luxurious comfort",
+      "Bluetooth 5.3"
+    ],
+    "specifications": {
+      "battery": "24 hours",
+      "weight": "254g",
+      "connectivity": "Bluetooth 5.3"
+    },
+    "tags": ["noise-canceling", "spatial-audio", "premium", "comfortable", "wireless"]
+  },
+  {
+    "id": 7,
+    "name": "Apple AirPods Pro 2nd Gen",
+    "category": "Audio",
+    "price": 249.99,
+    "brand": "Apple",
+    "rating": 4.9,
+    "description": "True wireless earbuds with adaptive audio, active noise cancellation, and MagSafe charging. Perfect for iPhone users.",
+    "features": [
+      "Active Noise Cancellation",
+      "Adaptive Audio",
+      "Up to 6 hours listening time",
+      "MagSafe charging case",
+      "Personalized Spatial Audio",
+      "IPX4 water resistant"
+    ],
+    "specifications": {
+      "battery": "6 hours (30 with case)",
+      "charging": "MagSafe, USB-C",
+      "water-resistance": "IPX4"
+    },
+    "tags": ["true-wireless", "noise-canceling", "apple-ecosystem", "compact", "premium"]
+  },
+  {
+    "id": 8,
+    "name": "iPhone 15 Pro Max",
+    "category": "Smartphones",
+    "price": 1199.99,
+    "brand": "Apple",
+    "rating": 4.9,
+    "description": "Apple's flagship smartphone with the powerful A17 Pro chip, titanium design, and the most advanced camera system.",
+    "features": [
+      "A17 Pro chip with 6-core GPU",
+      "6.7-inch Super Retina XDR display",
+      "Pro camera system with 5x telephoto",
+      "Action button",
+      "Titanium design",
+      "USB-C connectivity"
+    ],
+    "specifications": {
+      "processor": "A17 Pro",
+      "screen": "6.7-inch OLED",
+      "camera": "48MP main, 5x optical zoom",
+      "storage": "256GB",
+      "battery": "Up to 29 hours video"
+    },
+    "tags": ["flagship", "premium-camera", "5G", "titanium", "ios"]
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Smartphones",
+    "price": 1299.99,
+    "brand": "Samsung",
+    "rating": 4.8,
+    "description": "Samsung's ultimate smartphone with S Pen, incredible 200MP camera, and AI-powered features.",
+    "features": [
+      "Snapdragon 8 Gen 3 processor",
+      "6.8-inch Dynamic AMOLED 2X display",
+      "200MP main camera with 100x Space Zoom",
+      "Built-in S Pen",
+      "5000mAh battery",
+      "Galaxy AI features"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 3",
+      "screen": "6.8-inch AMOLED",
+      "camera": "200MP main",
+      "storage": "256GB",
+      "battery": "5000mAh"
+    },
+    "tags": ["flagship", "s-pen", "200mp-camera", "AI", "android"]
+  },
+  {
+    "id": 10,
+    "name": "Google Pixel 8 Pro",
+    "category": "Smartphones",
+    "price": 999.99,
+    "brand": "Google",
+    "rating": 4.7,
+    "description": "Google's AI-powered flagship with the best computational photography and 7 years of software updates.",
+    "features": [
+      "Google Tensor G3 chip",
+      "6.7-inch LTPO OLED display",
+      "50MP main camera with AI",
+      "Magic Eraser and Best Take",
+      "7 years of updates",
+      "Pure Android experience"
+    ],
+    "specifications": {
+      "processor": "Google Tensor G3",
+      "screen": "6.7-inch OLED 120Hz",
+      "camera": "50MP with AI",
+      "storage": "128GB",
+      "battery": "5050mAh"
+    },
+    "tags": ["AI-photography", "pure-android", "long-support", "flagship", "google"]
+  },
+  {
+    "id": 11,
+    "name": "HP Envy 13 Budget Laptop",
+    "category": "Laptops",
+    "price": 749.99,
+    "brand": "HP",
+    "rating": 4.4,
+    "description": "Affordable yet capable laptop for everyday tasks, students, and light work. Great balance of performance and price.",
+    "features": [
+      "Intel Core i5-1335U processor",
+      "8GB DDR4 RAM",
+      "256GB SSD",
+      "13.3-inch Full HD display",
+      "Lightweight 2.88 lbs",
+      "All-day battery life"
+    ],
+    "specifications": {
+      "processor": "Intel Core i5-1335U",
+      "ram": "8GB DDR4",
+      "storage": "256GB SSD",
+      "screen": "13.3-inch FHD",
+      "weight": "2.88 lbs"
+    },
+    "tags": ["budget", "student", "lightweight", "everyday", "affordable"]
+  },
+  {
+    "id": 12,
+    "name": "Acer Chromebook Spin 714",
+    "category": "Laptops",
+    "price": 729.99,
+    "brand": "Acer",
+    "rating": 4.5,
+    "description": "Premium Chromebook with 2-in-1 convertible design. Perfect for cloud-based work, students, and web browsing.",
+    "features": [
+      "Intel Core i5-1335U processor",
+      "8GB LPDDR4X RAM",
+      "256GB SSD",
+      "14-inch 2K touchscreen",
+      "360-degree hinge",
+      "Chrome OS with Android apps"
+    ],
+    "specifications": {
+      "processor": "Intel Core i5-1335U",
+      "ram": "8GB LPDDR4X",
+      "storage": "256GB SSD",
+      "screen": "14-inch 2K touchscreen",
+      "os": "Chrome OS"
+    },
+    "tags": ["chromebook", "2-in-1", "touchscreen", "cloud", "student"]
+  },
+  {
+    "id": 13,
+    "name": "JBL Tune 760NC Wireless Headphones",
+    "category": "Audio",
+    "price": 129.99,
+    "brand": "JBL",
+    "rating": 4.5,
+    "description": "Budget-friendly wireless headphones with active noise cancellation and JBL's signature sound.",
+    "features": [
+      "Active Noise Cancellation",
+      "35-hour battery life",
+      "JBL Pure Bass sound",
+      "Lightweight design",
+      "Multi-point connection",
+      "Quick charge"
+    ],
+    "specifications": {
+      "battery": "35 hours",
+      "weight": "220g",
+      "connectivity": "Bluetooth 5.0"
+    },
+    "tags": ["budget", "noise-canceling", "long-battery", "bass", "affordable"]
+  },
+  {
+    "id": 14,
+    "name": "Anker Soundcore Space Q45",
+    "category": "Audio",
+    "price": 149.99,
+    "brand": "Anker",
+    "rating": 4.6,
+    "description": "Outstanding value wireless headphones with excellent noise cancellation and 50-hour battery life.",
+    "features": [
+      "Adaptive noise cancellation",
+      "50-hour battery life",
+      "LDAC Hi-Res audio",
+      "Comfortable padding",
+      "App customization",
+      "Foldable design"
+    ],
+    "specifications": {
+      "battery": "50 hours",
+      "weight": "298g",
+      "connectivity": "Bluetooth 5.3",
+      "driver": "40mm"
+    },
+    "tags": ["budget", "long-battery", "noise-canceling", "hi-res", "value"]
+  },
+  {
+    "id": 15,
+    "name": "Samsung Galaxy A54 5G",
+    "category": "Smartphones",
+    "price": 449.99,
+    "brand": "Samsung",
+    "rating": 4.6,
+    "description": "Mid-range smartphone with flagship features - excellent camera, 120Hz display, and 5G connectivity.",
+    "features": [
+      "Exynos 1380 processor",
+      "6.4-inch Super AMOLED 120Hz display",
+      "50MP triple camera system",
+      "5000mAh battery",
+      "IP67 water resistance",
+      "4 years of updates"
+    ],
+    "specifications": {
+      "processor": "Exynos 1380",
+      "screen": "6.4-inch AMOLED 120Hz",
+      "camera": "50MP main",
+      "storage": "128GB",
+      "battery": "5000mAh"
+    },
+    "tags": ["mid-range", "5G", "120Hz", "good-camera", "value"]
+  },
+  {
+    "id": 16,
+    "name": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 799.99,
+    "brand": "OnePlus",
+    "rating": 4.7,
+    "description": "Flagship killer with Snapdragon 8 Gen 3, incredibly fast charging, and Hasselblad camera tuning.",
+    "features": [
+      "Snapdragon 8 Gen 3 processor",
+      "6.82-inch LTPO AMOLED 120Hz",
+      "50MP Hasselblad camera",
+      "5400mAh battery with 80W charging",
+      "100W wireless charging",
+      "OxygenOS 14"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 3",
+      "screen": "6.82-inch AMOLED",
+      "camera": "50MP Hasselblad",
+      "storage": "256GB",
+      "battery": "5400mAh"
+    },
+    "tags": ["flagship", "fast-charging", "hasselblad", "high-performance", "5G"]
+  },
+  {
+    "id": 17,
+    "name": "Microsoft Surface Laptop 5",
+    "category": "Laptops",
+    "price": 1299.99,
+    "brand": "Microsoft",
+    "rating": 4.6,
+    "description": "Premium Windows laptop with beautiful design, excellent keyboard, and touchscreen display. Perfect for professionals.",
+    "features": [
+      "Intel Core i7-1255U processor",
+      "16GB LPDDR5X RAM",
+      "512GB SSD",
+      "13.5-inch PixelSense touchscreen",
+      "Alcantara keyboard",
+      "All-day battery"
+    ],
+    "specifications": {
+      "processor": "Intel Core i7-1255U",
+      "ram": "16GB LPDDR5X",
+      "storage": "512GB SSD",
+      "screen": "13.5-inch touchscreen",
+      "weight": "2.8 lbs"
+    },
+    "tags": ["premium", "touchscreen", "professional", "lightweight", "windows"]
+  },
+  {
+    "id": 18,
+    "name": "Razer Blade 15 Advanced",
+    "category": "Laptops",
+    "price": 2499.99,
+    "brand": "Razer",
+    "rating": 4.7,
+    "description": "Ultimate gaming laptop with RTX 4070, 240Hz display, and premium build quality. Desktop-class performance in a sleek package.",
+    "features": [
+      "Intel Core i9-13950HX processor",
+      "32GB DDR5 RAM",
+      "1TB PCIe 4.0 SSD",
+      "NVIDIA GeForce RTX 4070",
+      "15.6-inch QHD 240Hz display",
+      "Per-key RGB keyboard"
+    ],
+    "specifications": {
+      "processor": "Intel Core i9-13950HX",
+      "ram": "32GB DDR5",
+      "storage": "1TB SSD",
+      "graphics": "RTX 4070",
+      "screen": "15.6-inch QHD 240Hz"
+    },
+    "tags": ["gaming", "high-end", "240Hz", "RGB", "premium-build"]
+  },
+  {
+    "id": 19,
+    "name": "Sennheiser Momentum 4 Wireless",
+    "category": "Audio",
+    "price": 379.99,
+    "brand": "Sennheiser",
+    "rating": 4.8,
+    "description": "Audiophile-grade wireless headphones with exceptional sound quality and 60-hour battery life.",
+    "features": [
+      "Superior sound quality",
+      "60-hour battery life",
+      "Adaptive noise cancellation",
+      "Bluetooth 5.2 with aptX Adaptive",
+      "Premium build quality",
+      "Smart Pause"
+    ],
+    "specifications": {
+      "battery": "60 hours",
+      "weight": "293g",
+      "connectivity": "Bluetooth 5.2",
+      "driver": "42mm"
+    },
+    "tags": ["audiophile", "premium-sound", "long-battery", "wireless", "premium"]
+  },
+  {
+    "id": 20,
+    "name": "Nothing Phone (2)",
+    "category": "Smartphones",
+    "price": 599.99,
+    "brand": "Nothing",
+    "rating": 4.6,
+    "description": "Unique transparent design smartphone with Glyph Interface, flagship performance, and clean Android experience.",
+    "features": [
+      "Snapdragon 8+ Gen 1 processor",
+      "6.7-inch LTPO OLED 120Hz display",
+      "50MP dual camera system",
+      "Unique Glyph Interface",
+      "4700mAh battery with 45W charging",
+      "Nothing OS 2.0"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "screen": "6.7-inch OLED 120Hz",
+      "camera": "50MP dual",
+      "storage": "256GB",
+      "battery": "4700mAh"
+    },
+    "tags": ["unique-design", "flagship", "clean-android", "glyph", "5G"]
+  }
+]

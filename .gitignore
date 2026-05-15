@@ -87,3 +87,7 @@ Thumbs.db
 # Uncomment if needed:
 # */input/
 # */output/
+
+*.log
+*.bin
+*.sqlite3
